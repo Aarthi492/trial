@@ -1,5 +1,8 @@
 <product>
 	<name>computer</name>
 	<price>45000</price>
+<<<<<<< HEAD
 	<model>new version</model>
+=======
+>>>>>>> gitwork
 </product>
